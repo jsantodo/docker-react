@@ -12,7 +12,7 @@ class App extends Component {
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
-          DSD: Esto funciona 3
+          DSD: Esto funciona bastante bien
         </p>
       </div>
     );
